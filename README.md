@@ -6,11 +6,7 @@ You need to make a fork of this repository, find your name in the list below, an
 [**@username**](https://github.com/username/) something about you
 ```
 
-For example, this is what I did with mine:
-
-> [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
-
-The picture at the end is optional (but fun!) and can come from anywhere on the internet. This is the code I used to create my intro:
+You can also add a small picture at the end. It's optional (but fun!) and can come from anywhere on the internet. Here is the code I used to create my intro, which you can use as a template:
 
 ```md
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
@@ -18,13 +14,73 @@ The picture at the end is optional (but fun!) and can come from anywhere on the 
 
 Look for your GitHub username and add a link to your Github profile and something about
 yourself you don't mind sharing publicly. Remember to only modify the line with your
-name! If you don't see your name, just add it at the end of the list (and see what happens!).
+name! If you don't see your name, just add it at the end of the list.
 
 Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
-repository.
+repository (the USCbiostats version).
+
+# PM566 Fall 2024 students
+
+[**@almodaweb**](https://github.com/almodaweb)  - I'm Hanin, an international student from Bahrain and I love crocheting and watching reality tv!
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffeltedbutton.com%2Fblogs%2Fnew-felted-button-blog%2Fbook-review-crochet-cute-critters&psig=AOvVaw0aIHqT_g49qrBSrBbdSAxF&ust=1725730943711000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDwoIDvrogDFQAAAAAdAAAAABAE">
+
+[**@pcasanas**](https://github.com/pcasanas) - I'm Patrick, a current 2nd year MPH biostats-epi student! I currently love rock climbing!
+
+[**@Liying000888**](https://github.com/Liying000888/) - I'm Kristy, second year Master program in Biostatistics. 
+
+[**@kdimson22**](https://github.com/kdimson22) - I'm Kendall, second-year MPH biostat/epi student, and I like rock climbing :)
+
+[**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
+
+
+
+```md
+[**@sshahi98**](https://github.com/sshahi98) I love taking candid pictures of street cats. We have lots of street cats in my country, Iran, and they are the most beautiful cats ever! PS. I have no bias! <img src="IMG_0810.jpg">
+```
+
+
+Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love Star Wars and have a Lego collection!
+
+[**@danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration!
+
+[**\@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, a second year MPH student. I was recently gifted a kitten named Lunita! She takes up most of my time now :)
+
+[**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
+
+Alli Hoang
+
+[**@giulietk**](https://github.com/giulietk/) I'm Giuliet Kibler and I'm from St. Louis, Missouri.
+
+Katie Loomis
+[**@k-loomis**](https://github.com/k-loomis/) Hello, I'm Katie. My cats and I are from the moon, but my husband is from Pennsylvania. <img src= "https://preview.redd.it/fun-challenge-enter-the-same-exact-prompt-but-creatively-v0-xuwjarvsgkac1.jpg?width=1024&format=pjpg&auto=webp&s=81feff37f5ac86d56fdf02e29e3e4a27ce8c4599" width="40px">
+
+
+[**@normamarshall**](https://github.com/normamarshall/) Hi I'm Norma! I'm a first year student in the MPH program! I'm from Los Angeles and I enjoy trying new cold brews around town!<img src="https://media.licdn.com/dms/image/v2/D5603AQE_lhuh9GlOqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676502746204?e=1730937600&v=beta&t=q6Qm_LEqwsuiRRKYbotk_H6SpZoKFyVQdzEDg6pJyCA" width="40px"> 
+
+
+Si SHEN
+[**KessieSHEN**](https://github.com/KessieSHEN)I love snowboarding,i m a regular ^_^ <imgscr="https://avatars.githubusercontent.com/u/179794031?s=400&u=6b972b24d7a20f62d8f4d426b0c17c305a5c608a&v=4"width="40px>"
+
+[**@ericays**](https://github.com/ericays/) Hi, I'm a second year MPH student in the epidemiology/biostatistics concentration!
+
+[**@nktang05**](https://github.com/nktang05) I am a first year in the MS Public Health Data Science program. I am from Los Angeles and like trying out all the cafes and restaurants here!
+
+[**@bellavillan**] (https://github.com/bellavillan) I can speak French oui oui  
+
+Erin Yu I am from Orange County and I love pasta  
+
+[**@yhyhyyy**](https://github.com/yhyhyyy/) I am Haoyu Yu and I like play tennis! <img src="https://avatars.githubusercontent.com/u/179960482?s=400&u=eb6a6ccca5dd20b246be9a2bc0defa3013813fc9&v=4" width="40px">
+
+## Instructors
+
+[**@jessicaageorge5**](https://github.com/jessicaageorge5) Happy to be your TA this year! I love being active; my favorite activities are going to the gym and roller skating. <img src="[https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f6fc.png" alt="profile pic" width="40px">
+
+[**@kstreet13**](https://github.com/kstreet13) One of my favorite places in the LA area is the Huntington. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
 
 # PM566 Fall 2023 students
+
+[**chenjiakk**](https://github.com/chenjiakk) Hi!I am Chnejia and I am in applied biostatistics and epidemiology program.
 
 [@williamsbre23](https://github.com/williamsbre23) 2nd year BKN Masters student
 
@@ -79,11 +135,18 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
 
+[**@debbieargueta3**](https://github.com/debbieargueta3/) Hello everyone! Happy to be here :).
+
 [**(@emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
 
 [**@moljaca3**] (https://github.com/moljaca3) I'm from San Diego and a current MD/MPH student at Keck. I love yoga and trying new restaurants!
 
 [**@vkcurry**](https://github.com/vkcurry/) I am a second year MS student in Applied Biostats and Epi and I love to travel!
+
+[**@locchino**](https://github.com/locchino) I'm training for my first triathalon.
+
+[**@slipior**](https://github.com/slipior) Hi, my name is Sylwia and I'm training for a half marathon.
+
 
 
 ## Instructor
